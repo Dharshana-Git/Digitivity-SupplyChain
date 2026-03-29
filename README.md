@@ -101,17 +101,20 @@ digitivity/
 ## Setup & Installation
 
 **1. Clone the repository**
-
+```bash
 git clone https://github.com/Dharshana-Git/Digitivity-SupplyChain
 cd digitivity
+```
 
 **2. Install dependencies**
-
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+```
 
 **3. Run the notebook**
-
+```bash
 jupyter notebook notebooks/supply_chain_prediction.ipynb
+```
 
 ---
 
