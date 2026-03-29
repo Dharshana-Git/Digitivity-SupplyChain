@@ -108,6 +108,12 @@ cd digitivity
 
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
+## Dataset
+
+The dataset used in this project can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
 **3. Run the notebook**
 
 jupyter notebook notebooks/supply_chain_prediction.ipynb
