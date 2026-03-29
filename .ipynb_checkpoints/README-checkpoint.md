@@ -97,6 +97,12 @@ digitivity/
 
 ---
 
+## Dataset
+
+The dataset used in this project can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
 ## Setup & Installation
 
 **1. Clone the repository**
@@ -107,12 +113,6 @@ cd digitivity
 **2. Install dependencies**
 
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-
-## Dataset
-
-The dataset used in this project can be downloaded from Kaggle:
-
-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 **3. Run the notebook**
 
