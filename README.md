@@ -75,6 +75,7 @@ Several preprocessing steps were applied to improve model performance.
 ---
 
 ## Project Structure
+```
 digitivity/
 │
 ├── notebooks/
@@ -93,7 +94,7 @@ digitivity/
 │ └── model_learning_curve.png
 │
 └── README.md
-
+```
 
 ---
 
